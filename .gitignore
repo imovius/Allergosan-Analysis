@@ -1,0 +1,36 @@
+
+# Virtual environments
+venv/
+venv2/
+env/
+ENV/
+.venv/
+.env/
+
+# Output directories
+figs/
+outputs/
+"outputs for klaus"/
+"Outputs for Klaus"/
+*.png
+
+# Data files and cache
+*.csv
+*.png
+*.txt
+*.zip
+*.joblib
+__pycache__/
+*.pyc
+*.pyo
+*.md
+
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
